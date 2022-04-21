@@ -1,2 +1,2 @@
-# desafioinstagram
-Desafio criar página inicial instagram
+# Desafio instagram
+Desafio de criar página inicial instagram
